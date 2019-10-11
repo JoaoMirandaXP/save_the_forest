@@ -1,0 +1,224 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/grin/.gradle/caches/transforms-2/files-2.1/5368ac608445531afc50bac2ce32de5a/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /home/grin/.gradle/caches/transforms-2/files-2.1/a954ff011df06a441c0961ab5fe49387/core-ktx-1.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/grin/.gradle/caches/transforms-2/files-2.1/51e8e1200caa7f3a2da6057e2e25dbd4/jetified-play-services-maps-16.1.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/80cc224e791dd89bacec0946b984bf7a/jetified-play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/149a6715f54f68e78712b1bad13cfd5d/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/5453f7f92064cbd83f0acdde7d295e7d/jetified-play-services-basement-16.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/b2c7503c3d8c73682829904be28cb3d3/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/31ed83ffcb0684c85267139fed118508/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/cea2370fb4e653075c89e65a18ec7791/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/b22695fba279fbd04b4ce4b15f78a65a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/4883eaa0c11a69b75cb7c8c979b28503/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/8f29a0a6d78d2a9b1393bb676dc30d55/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/282cc9c0150c4cd87b74820d4c0b10e8/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/a4db8479c16444c563622389a0014a2b/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/7f7c09273c940c0efb3dc5ca565f0de3/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/4ae9c9e30e5f7467371f8e6cad9427a5/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/b3c08daf8d06a721ec009be3217bda5e/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/f3397d3a2e4abb85883c1034e6547d26/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/4076ad87748e3f84a46c96c07d5b96c5/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/9457f161d0b18eec6bb373aba899aa95/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/9ce3ee21c2e2c0f2f52b13e38e91138c/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /home/grin/.gradle/caches/transforms-2/files-2.1/fd9758689ed3075423f11fb4f58f3993/core-1.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/b6663d48723bf592a2737e3790f2cb04/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/606b93441c07d8d15925b718d269725c/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/a9cce7566000a40f1d3d79d456cd1d49/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/7e1d9b5c301c695a5e7e28c06a3f07e4/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/b762e7c274231f2e81915c00b7b6d5cb/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/2a98217a5ae98ff6cb4e2e4c1a978cb4/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/859c6ea373746f5e6f115ad57061ff19/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/6fa4e7d40a20939e6bed79183e68f4dc/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/3b8ac2fc3a6b04ec3043adbbf861ba5a/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/d3a31779f421707e509b7f43829e4b5b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/e655ddd75e346a3057997bda6b53bc0d/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml
+		ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml
+		ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:10:22-76
+application
+ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:12:5-41:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/grin/.gradle/caches/transforms-2/files-2.1/51e8e1200caa7f3a2da6057e2e25dbd4/jetified-play-services-maps-16.1.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/grin/.gradle/caches/transforms-2/files-2.1/51e8e1200caa7f3a2da6057e2e25dbd4/jetified-play-services-maps-16.1.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/80cc224e791dd89bacec0946b984bf7a/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/80cc224e791dd89bacec0946b984bf7a/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/149a6715f54f68e78712b1bad13cfd5d/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/149a6715f54f68e78712b1bad13cfd5d/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/5453f7f92064cbd83f0acdde7d295e7d/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/5453f7f92064cbd83f0acdde7d295e7d/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.2] /home/grin/.gradle/caches/transforms-2/files-2.1/fd9758689ed3075423f11fb4f58f3993/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /home/grin/.gradle/caches/transforms-2/files-2.1/fd9758689ed3075423f11fb4f58f3993/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/b6663d48723bf592a2737e3790f2cb04/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/b6663d48723bf592a2737e3790f2cb04/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /home/grin/.gradle/caches/transforms-2/files-2.1/fd9758689ed3075423f11fb4f58f3993/core-1.0.2/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:18:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:28:9-30:55
+	android:value
+		ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:30:13-52
+	android:name
+		ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:29:13-58
+activity#com.googlestartups.geoposicionamento.MapsActivity
+ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:33:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml:38:27-74
+uses-sdk
+INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml
+INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/grin/.gradle/caches/transforms-2/files-2.1/5368ac608445531afc50bac2ce32de5a/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/grin/.gradle/caches/transforms-2/files-2.1/5368ac608445531afc50bac2ce32de5a/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/grin/.gradle/caches/transforms-2/files-2.1/a954ff011df06a441c0961ab5fe49387/core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/grin/.gradle/caches/transforms-2/files-2.1/a954ff011df06a441c0961ab5fe49387/core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/grin/.gradle/caches/transforms-2/files-2.1/51e8e1200caa7f3a2da6057e2e25dbd4/jetified-play-services-maps-16.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/grin/.gradle/caches/transforms-2/files-2.1/51e8e1200caa7f3a2da6057e2e25dbd4/jetified-play-services-maps-16.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/80cc224e791dd89bacec0946b984bf7a/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/80cc224e791dd89bacec0946b984bf7a/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/149a6715f54f68e78712b1bad13cfd5d/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/149a6715f54f68e78712b1bad13cfd5d/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/5453f7f92064cbd83f0acdde7d295e7d/jetified-play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/5453f7f92064cbd83f0acdde7d295e7d/jetified-play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/b2c7503c3d8c73682829904be28cb3d3/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/b2c7503c3d8c73682829904be28cb3d3/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/31ed83ffcb0684c85267139fed118508/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/31ed83ffcb0684c85267139fed118508/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/cea2370fb4e653075c89e65a18ec7791/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/cea2370fb4e653075c89e65a18ec7791/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/b22695fba279fbd04b4ce4b15f78a65a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/b22695fba279fbd04b4ce4b15f78a65a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/4883eaa0c11a69b75cb7c8c979b28503/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/4883eaa0c11a69b75cb7c8c979b28503/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/8f29a0a6d78d2a9b1393bb676dc30d55/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/8f29a0a6d78d2a9b1393bb676dc30d55/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/282cc9c0150c4cd87b74820d4c0b10e8/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/282cc9c0150c4cd87b74820d4c0b10e8/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/a4db8479c16444c563622389a0014a2b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/a4db8479c16444c563622389a0014a2b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/7f7c09273c940c0efb3dc5ca565f0de3/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/7f7c09273c940c0efb3dc5ca565f0de3/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/4ae9c9e30e5f7467371f8e6cad9427a5/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/4ae9c9e30e5f7467371f8e6cad9427a5/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/b3c08daf8d06a721ec009be3217bda5e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/b3c08daf8d06a721ec009be3217bda5e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/f3397d3a2e4abb85883c1034e6547d26/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/f3397d3a2e4abb85883c1034e6547d26/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/4076ad87748e3f84a46c96c07d5b96c5/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/4076ad87748e3f84a46c96c07d5b96c5/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/9457f161d0b18eec6bb373aba899aa95/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/9457f161d0b18eec6bb373aba899aa95/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/9ce3ee21c2e2c0f2f52b13e38e91138c/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/9ce3ee21c2e2c0f2f52b13e38e91138c/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/grin/.gradle/caches/transforms-2/files-2.1/fd9758689ed3075423f11fb4f58f3993/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/grin/.gradle/caches/transforms-2/files-2.1/fd9758689ed3075423f11fb4f58f3993/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/b6663d48723bf592a2737e3790f2cb04/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/b6663d48723bf592a2737e3790f2cb04/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/606b93441c07d8d15925b718d269725c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/606b93441c07d8d15925b718d269725c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/a9cce7566000a40f1d3d79d456cd1d49/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/a9cce7566000a40f1d3d79d456cd1d49/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/7e1d9b5c301c695a5e7e28c06a3f07e4/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/7e1d9b5c301c695a5e7e28c06a3f07e4/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/b762e7c274231f2e81915c00b7b6d5cb/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/b762e7c274231f2e81915c00b7b6d5cb/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/2a98217a5ae98ff6cb4e2e4c1a978cb4/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/2a98217a5ae98ff6cb4e2e4c1a978cb4/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/859c6ea373746f5e6f115ad57061ff19/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/859c6ea373746f5e6f115ad57061ff19/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/6fa4e7d40a20939e6bed79183e68f4dc/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/6fa4e7d40a20939e6bed79183e68f4dc/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/3b8ac2fc3a6b04ec3043adbbf861ba5a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/3b8ac2fc3a6b04ec3043adbbf861ba5a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/d3a31779f421707e509b7f43829e4b5b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/d3a31779f421707e509b7f43829e4b5b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/e655ddd75e346a3057997bda6b53bc0d/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/grin/.gradle/caches/transforms-2/files-2.1/e655ddd75e346a3057997bda6b53bc0d/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml
+INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml
+		ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml
+		ADDED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/grin/Documents/ISJ/save_the_forest/save_the_forest/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/grin/.gradle/caches/transforms-2/files-2.1/51e8e1200caa7f3a2da6057e2e25dbd4/jetified-play-services-maps-16.1.0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/grin/.gradle/caches/transforms-2/files-2.1/51e8e1200caa7f3a2da6057e2e25dbd4/jetified-play-services-maps-16.1.0/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/grin/.gradle/caches/transforms-2/files-2.1/51e8e1200caa7f3a2da6057e2e25dbd4/jetified-play-services-maps-16.1.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/grin/.gradle/caches/transforms-2/files-2.1/51e8e1200caa7f3a2da6057e2e25dbd4/jetified-play-services-maps-16.1.0/AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/grin/.gradle/caches/transforms-2/files-2.1/51e8e1200caa7f3a2da6057e2e25dbd4/jetified-play-services-maps-16.1.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/grin/.gradle/caches/transforms-2/files-2.1/51e8e1200caa7f3a2da6057e2e25dbd4/jetified-play-services-maps-16.1.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/grin/.gradle/caches/transforms-2/files-2.1/51e8e1200caa7f3a2da6057e2e25dbd4/jetified-play-services-maps-16.1.0/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/grin/.gradle/caches/transforms-2/files-2.1/51e8e1200caa7f3a2da6057e2e25dbd4/jetified-play-services-maps-16.1.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/grin/.gradle/caches/transforms-2/files-2.1/51e8e1200caa7f3a2da6057e2e25dbd4/jetified-play-services-maps-16.1.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/grin/.gradle/caches/transforms-2/files-2.1/51e8e1200caa7f3a2da6057e2e25dbd4/jetified-play-services-maps-16.1.0/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/80cc224e791dd89bacec0946b984bf7a/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/80cc224e791dd89bacec0946b984bf7a/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/80cc224e791dd89bacec0946b984bf7a/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/80cc224e791dd89bacec0946b984bf7a/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/5453f7f92064cbd83f0acdde7d295e7d/jetified-play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/5453f7f92064cbd83f0acdde7d295e7d/jetified-play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/grin/.gradle/caches/transforms-2/files-2.1/5453f7f92064cbd83f0acdde7d295e7d/jetified-play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
